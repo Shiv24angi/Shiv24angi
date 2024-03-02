@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shiv24angi
-- 👀 I’m interested in Art
-- 🌱 I’m currently learning CSE
+- 🌱 I’m currently pursuing CSE
 - 💞️ I’m looking to collaborate on a Coding project
 - 📫 How to reach me : email at shivangidps40@gmail.com
 
