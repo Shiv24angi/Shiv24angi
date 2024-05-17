@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Shivangi, a passionate student pursuing B.Tech in Computer Science and Engineering.<br><br>💻 Fluent in 4 languages: C, C++, HTML, and CSS.<br><br>🌟 I'm constantly exploring the realms of code and technology, eager to learn and grow.<br><br>🚀 You'll often find me tinkering with projects, diving deep into algorithms, or crafting beautiful web interfaces.<br><br>🎨 Let's connect, collaborate, and code our way to innovation!<br><br>📫 How to reach me : email at shivangidps40@gmail.com
+👋 Hey there! I'm Shivangi, a passionate student pursuing B.Tech in Computer Science and Engineering.<br><br>💻 Fluent in 4 languages: C, C++, HTML, CSS and python.<br><br>🌟 I'm constantly exploring the realms of code and technology, eager to learn and grow.<br><br>🚀 You'll often find me tinkering with projects, diving deep into algorithms, or crafting beautiful web interfaces.<br><br>🎨 Let's connect, collaborate, and code our way to innovation!<br><br>📫 How to reach me : email at shivangidps40@gmail.com
 
 
 ## 🌐 Socials:
