@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/shivangi sharma]) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([[https://linkedin.com/in/shivangi-sharma2405](https://www.linkedin.com/in/shivangi-sharma2405/)]) 
 
 
 # 💻 Tech Stack:
