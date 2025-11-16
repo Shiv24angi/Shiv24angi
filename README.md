@@ -18,7 +18,11 @@
 </div>
 
 ---
+### ✨ My Coolest Creations & Triumphs
 
+* **2nd Place** – **Hackowasp 7.0 Ideathon** 🥈
+    * Created **"Ghar Ghar Gyaan,"** an AI-powered legal & health rights advisor that makes important info accessible to everyone.
+---
 ### ✨ My Projects & Highlights
 
 * 🌐 **Ghar Ghar Gyaan (NoApp)** – An **AI-powered legal & health rights advisor** that makes crucial info accessible to rural communities.  
